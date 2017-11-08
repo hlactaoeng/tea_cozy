@@ -11,7 +11,7 @@ body{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  border-bottom: 1px solid seashell;
+  /*border-bottom: 1px solid seashell;*/
 }
 
 header{
@@ -20,7 +20,7 @@ header{
   z-index: 1;
   height: 69px;
   background-color: black;
-  border-bottom: 1 px solid seashell;
+  border-bottom: 1px solid seashell;
   align-items: center;
 }
 
@@ -118,4 +118,18 @@ h3{
 }
 p{
    display: block;
+}
+
+#contact{
+   height: 200px;
+}
+h5{
+   display: block;
+   font-size: 0.83em;
+   font-weight: bold;
+}
+
+footer{
+   text-align: left;
+   padding-left: 20px;
 }
