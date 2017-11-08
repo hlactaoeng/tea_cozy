@@ -74,3 +74,20 @@ h3{
    display: block;
    font-size: 1.17em;
 }
+
+/*Store section*/
+.item{
+   padding: 5px;
+}
+.item img{
+   height: 200px;
+   display: block;
+   margin: 10px;
+}
+
+#store{
+   height: 700px;
+   width: 1000px;
+   padding-top: 70px;
+   margin: auto;
+}
